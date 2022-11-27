@@ -1,0 +1,11 @@
+C:\Users\hp\source\repos\ExercicisRepasRecu_M03UF2\obj\Debug\ExercicisRepasRecu_M03UF2.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\ExercicisRepasRecu_M03UF2\obj\Debug\ExercicisRepasRecu_M03UF2.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\source\repos\ExercicisRepasRecu_M03UF2\obj\Debug\ExercicisRepasRecu_M03UF2.Properties.Resources.resources
+C:\Users\hp\source\repos\ExercicisRepasRecu_M03UF2\obj\Debug\ExercicisRepasRecu_M03UF2.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\ExercicisRepasRecu_M03UF2\obj\Debug\ExercicisRepasRecu_M03UF2.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\ExercicisRepasRecu_M03UF2\bin\Debug\ExercicisRepasRecu_M03UF2.exe.config
+C:\Users\hp\source\repos\ExercicisRepasRecu_M03UF2\bin\Debug\ExercicisRepasRecu_M03UF2.exe
+C:\Users\hp\source\repos\ExercicisRepasRecu_M03UF2\bin\Debug\ExercicisRepasRecu_M03UF2.pdb
+C:\Users\hp\source\repos\ExercicisRepasRecu_M03UF2\obj\Debug\ExercicisRepasRecu_M03UF2.exe
+C:\Users\hp\source\repos\ExercicisRepasRecu_M03UF2\obj\Debug\ExercicisRepasRecu_M03UF2.pdb
+C:\Users\hp\source\repos\ExercicisRepasRecu_M03UF2\obj\Debug\ExercicisRepasRecu_M03UF2._1FormProva.resources

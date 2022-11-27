@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicisRepasRecu_M03UF2", "ExercicisRepasRecu_M03UF2.csproj", "{06C809A2-63C8-49A9-BB6F-AF29FED3901E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06C809A2-63C8-49A9-BB6F-AF29FED3901E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06C809A2-63C8-49A9-BB6F-AF29FED3901E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06C809A2-63C8-49A9-BB6F-AF29FED3901E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06C809A2-63C8-49A9-BB6F-AF29FED3901E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47EF863F-1C93-495C-849F-920A8C436E19}
+	EndGlobalSection
+EndGlobal
